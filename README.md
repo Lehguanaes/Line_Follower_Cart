@@ -2,9 +2,9 @@
   
 # Projeto: Line Follower Cart
 
-<a href="Line_Follower_Cart/Código/Line_Follower_Cart.ino" target="_blank"><img src="https://img.shields.io/badge/-Código do Carrinho-EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a>
-<a href="Line_Follower_Cart/Modelagem 3D/Line_Follower_Cart.stl" target="_blank"><img src="https://img.shields.io/badge/-Modelagem 3D do Carrinho-EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a>
-<a href="https://drive.google.com/drive/folders/1cdCwawtNqvSDIo8BNRj_3evCZh9V01nw" target="_blank"><img src="https://img.shields.io/badge/- Vídeo do Funcionamento -EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a>
+<a href="Line_Follower_Cart/Código/Line_Follower_Cart.ino" target="_blank"><img src="https://img.shields.io/badge/-Código do Carrinho-EBF3F8?style=for-the-badge&logo=github&logoColor=800080"></a>
+<a href="Line_Follower_Cart/Modelagem 3D/Line_Follower_Cart.stl" target="_blank"><img src="https://img.shields.io/badge/-Modelagem 3D do Carrinho-EBF3F8?style=for-the-badge&logo=github&logoColor=800080"></a>
+<a href="https://drive.google.com/drive/folders/1cdCwawtNqvSDIo8BNRj_3evCZh9V01nw" target="_blank"><img src="https://img.shields.io/badge/- Vídeo do Funcionamento -EBF3F8?style=for-the-badge&logo=github&logoColor=800080"></a>
 </div>
 
 ## Visão geral
